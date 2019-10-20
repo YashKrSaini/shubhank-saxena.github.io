@@ -62,8 +62,12 @@ h4{
     padding-top: 20px;
     padding-bottom: 20px;
     border-bottom: solid black;
-    background-color: rgba(255,255,255,0.2);
+    background-color: rgba(255,255,255,0.21);
     border-radius: 20px;
+}
+.container_main:hover{
+    border-radius: 30px;
+    background-color: rgba(255,255,255,0.4);
 }
 #login_page_link:hover{
     text-decoration: none;
